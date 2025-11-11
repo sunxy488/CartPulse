@@ -2,7 +2,7 @@
 
 # CartPulse · Real‑Time E‑commerce Analytics
 
-Streaming analytics with Flink + Kafka + Redis + Postgres + Elasticsearch · Observability via Prometheus + Grafana · REST by Go
+Streaming analytics with Flink + Kafka + Redis + Postgres + Elasticsearch · Observability via Prometheus + Grafana + Kibana · REST by Go
 
 </div>
 
